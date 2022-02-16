@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.btn-primary {
+  background: transparent;
+  color: #111;
+  border: 1px solid #111;
+  border-radius: 20px;
+  padding: 7px 25px;
+}
+
+input, select, textarea {
+  border-radius: 20px !important;
+}
+/*# sourceMappingURL=style.css.map */
